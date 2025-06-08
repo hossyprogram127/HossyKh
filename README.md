@@ -51,7 +51,7 @@
 
     <div id="home">
         <h2>About Me</h2>
-        <p>I'm Hossein Khosravi, a CS student at Yazd University. I am a smart and active student in computer science and a big fan of the English language.<br> 
+        <p>I'm Hossein Khosravi, a CS student at Yazd University. I am a smart and active student in computer science and a huge fan of the English language.<br> 
         So, I engage in various activities to showcase my skills and interests in these fields.</p>
         
         <img src="IMG_6508.JPG" alt="A description of the image">
