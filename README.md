@@ -1,6 +1,5 @@
 # HossyKh
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Hossein Khosravi</title>
