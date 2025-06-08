@@ -170,3 +170,62 @@
     
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Links - Hossein Khosravi</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            color: #333;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 2.5em; 
+            margin-bottom: 20px;
+        }
+        nav {
+            margin-top: 20px;
+            background-color: #333;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            margin: 0 10px;
+            border-radius: 5px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        img {
+            max-width: 50%; 
+            height: auto;
+            margin-top: 20px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>My Favorites</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="ability_knowledge.html">Ability & Knowledge</a> 
+        <a href="favorites.html">Favorites</a>
+        <a href="links.html">Links</a>
+    </nav>
+
+    <div id="favorite">
+        <p>I have some social media accounts which can be the ways to be in touch with me such as my telegram account or my email address.<br> 
+        My telegram account is: <a href="https://t.me/hey_hossy" target="_blank">https://t.me/hey_hossy</a><br> 
+        My email address is: <a href="mailto:hoseinkhosravi1384ho@gmail.com">hoseinkhosravi1384ho@gmail.com</a></p>
+        
+        <img src="download.jpg" alt="A description of the image">
+    </div>
+    
+</body>
+</html>
